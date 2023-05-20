@@ -23,6 +23,13 @@ ascii_hollow:
     closed: ▷
     open: ▽
 
+prokox:
+  <<: *ascii
+  default_icon: XD
+  folder:
+    closed: DD
+    open: XX
+
 devicons: &devicons
   link:
     broken: 
